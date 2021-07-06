@@ -41,7 +41,7 @@
 ## GitHub Stats
 <p align="center">
 <div>
-<img height="220" src="https://github-readme-stats.vercel.app/api?username=anupampatil44&show_icons=true&title_color=#3080ED&icon_color=#3080ED&text_color=black&bg_color=#FFFEFE">
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=anupampatil44&show_icons=true&theme=merko">
 <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupampatil44&count_private=true&langs_count=4&title_color=#3080ED&icon_color=#3080ED&text_color=black&bg_color=#000000">
 </div>
 </p>
