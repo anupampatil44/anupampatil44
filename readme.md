@@ -3,7 +3,7 @@
  <strong>Hey there, I'm Anupam Patil!</strong>
  </i>
 <div>
-<img align="right" width="370" height="280" src="https://cdn.pling.com/img/6/7/9/b/a0657b33e9f9ab0e4ed99cadeaeedd68a15f.gif" >   
+<img align="right" width="370" height="280" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" >   
  </div>
 <br>
  <i> I'm a student, currently pursuing a Bachelor's Degree in Computer Engineering from the Pune Institute of Computer Technology.
