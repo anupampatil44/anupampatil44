@@ -19,6 +19,8 @@
  <img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/> 
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+ <img height="50" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
+ 
 </div>
 
     
@@ -34,6 +36,8 @@
  <img height="50" width="50" src="https://www.sqlite.org/images/sqlite370_banner.gif"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+ <img height="50" width="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" /> 
+ 
  
  </div>
 
