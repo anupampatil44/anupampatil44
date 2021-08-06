@@ -20,6 +20,8 @@
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
+ <img height="50" width="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/> 
+ 
  
 </div>
 
