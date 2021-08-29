@@ -36,6 +36,7 @@
 <img height="50" width="50" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png" />
 <img src="https://img.icons8.com/color/48/ffffff/flutter.png"/>
  <img height="50" width="50" src="https://www.sqlite.org/images/sqlite370_banner.gif"/>
+ <img height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" /> 
