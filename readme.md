@@ -3,11 +3,10 @@
  <strong>Hey there, I'm Anupam Patil!</strong>
  </i>
 <div>
-<img align="right" width="280" height="280" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" >   
+<img align="right" width="280" height="280" src="https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp" >   
  </div>
 <br>
- <i> I'm a student, currently pursuing a Bachelor's Degree in Computer Engineering from the Pune Institute of Computer Technology.
- I have a keen interest in Web-Development & Machine Learning.
+ <i> I'm a student currently pursuing a Bachelor's Degree in Computer Engineering from the Pune Institute of Computer Technology with a keen interest in Web-Development & Machine Learning.
  I'm an open minded person and love to connect & interact with people.
  I’m currently learning Deep Learning and DSA.
  Apart from my studies, I love playing video-games, reading & listening to music.</i>
