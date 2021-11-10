@@ -34,6 +34,8 @@
 <img src="https://img.icons8.com/ios-filled/50/ffffff/django.png"/>
 <img height="50" width="50" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png" />
  <img height="50" width="50" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png"/>
+ <br>
+ <img height="50" width="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
 <img src="https://img.icons8.com/color/48/ffffff/flutter.png"/>
  <img height="50" width="50" src="https://www.sqlite.org/images/sqlite370_banner.gif"/>
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
