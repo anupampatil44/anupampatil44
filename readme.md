@@ -6,7 +6,7 @@
 <img align="right" width="280" height="280" src="https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp" >   
  </div>
 <br>
- <i> I'm currently a senior-year student currently pursuing a Bachelor's Degree in Computer Engineering at the Pune Institute of Computer Technology with a keen interest in product development and research.
+ <i> I'm a senior-year student currently pursuing a Bachelor's Degree in Computer Engineering at the Pune Institute of Computer Technology with a keen interest in product development and research.
  I'm an open minded person and love to connect & interact with people.
  I’m currently exploring various Deep-Learning approaches as well as their integration with products.
  Apart from my studies, I love playing video-games, reading fiction & listening to music.</i>
