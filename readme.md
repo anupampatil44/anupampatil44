@@ -1,22 +1,19 @@
 <i>
- <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> 
  <strong>Hey there, I'm Anupam Patil!</strong>
  </i>
 <div>
 <img align="right" width="280" height="280" src="https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp" >   
  </div>
 <br>
- <i> I'm a graduate student currently pursuing a Master's Degree in Computer Science at the University of Southern California with a keen interest in product development and research.
- I'm an open minded person and love to connect & interact with people.
- I’m currently exploring various Deep-Learning approaches for NLP & Generative Modeling as well as their integration with products.
- Apart from my acadmeics, I love playing video-games, reading fiction & listening to music.</i>
+ <i> - I'm a graduate student currently pursuing a Master's Degree in Computer Science at the University of Southern California with a keen interest in product development and research.<br>
+ - I'm an open-minded person and love to connect & interact with people (I generally respond to cold LinkedIn messages and emails, yes we exist!).<br>
+ - Currently exploring various Deep-Learning approaches for NLP, Generative Modeling as well as their integration with products. <br>
+ - Plus, now venturing into Robotics as well! (Part of the SLURM lab at USC, working on Dexterous Manipulation.)<br>
+ - Apart from my academics, I love playing video-games, reading fiction & listening to music.</i>
 
 
-### IDE and Tools I have Used:
+### Tools I'm versed with:
 <div>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
- <img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/> 
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/> 
@@ -25,7 +22,7 @@
 </div>
 
     
-### Technologies that I have worked with:
+### Technologies that I have worked with [TODO: overhaul this. constantly :) ]:
 <div>
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
