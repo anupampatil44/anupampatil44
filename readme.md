@@ -34,11 +34,14 @@
  <br>
  <img height="50" width="100" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
 <img src="https://img.icons8.com/color/48/ffffff/flutter.png"/>
- <img height="50" width="50" src="https://www.sqlite.org/images/sqlite370_banner.gif"/>
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
- <img height="50" width="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" /> 
+ <img height="50" width="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+ <img height="50" width="50" src="[https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg](https://www.gstatic.com/devrel-devsite/prod/vb04bc6a770b206c5880569d039fa6eaa90ca0850e1afe1934dab7999e04ac53a/tensorflow/images/lockup.svg)" />
+ <img height="50" width="100" src="https://gymnasium.farama.org/_images/gymnasium-text.png"/>
+ <img height="50" width="100" src="https://mujoco.readthedocs.io/en/stable/_static/banner.svg"/>
+ 
  
  
  </div>
