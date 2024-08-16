@@ -41,7 +41,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
- <img height="50" width="50" src=" https://sooftware.io/static/458c786f3433bdba9c9acd81597dd025/ce0ab/pl.png"/>
+ <img height="50" width="50" src="https://sooftware.io/static/458c786f3433bdba9c9acd81597dd025/33523/pl.webp"/>
  <img height="50" width="100" src="https://www.gstatic.com/devrel-devsite/prod/vb04bc6a770b206c5880569d039fa6eaa90ca0850e1afe1934dab7999e04ac53a/tensorflow/images/lockup.svg" />
  
  
