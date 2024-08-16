@@ -31,7 +31,7 @@
 <img src="https://img.icons8.com/ios-filled/50/ffffff/django.png"/>
 <img height="50" width="50" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png" />
  <img height="50" width="50" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png"/>
- <img height="50" width="50" src=" [https://avatars.githubusercontent.com/u/20547620?s=200&v=4](https://github.com/fastai/logos/blob/main/Fast.ai.png?raw=true)"/>
+ <img height="50" width="50" src="https://raw.githubusercontent.com/fastai/logos/main/Fast.ai.png"/>
  <img height="50" width="150" src="https://gymnasium.farama.org/_images/gymnasium-text.png"/>
  <img height="50" width="100" src="https://mujoco.readthedocs.io/en/stable/_static/banner.svg"/>
  <br>
@@ -41,7 +41,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
- <img height="50" width="50" src="https://sooftware.io/static/458c786f3433bdba9c9acd81597dd025/33523/pl.webp"/>
+ <img height="50" width="100" src="https://sooftware.io/static/458c786f3433bdba9c9acd81597dd025/33523/pl.webp"/>
  <img height="50" width="100" src="https://www.gstatic.com/devrel-devsite/prod/vb04bc6a770b206c5880569d039fa6eaa90ca0850e1afe1934dab7999e04ac53a/tensorflow/images/lockup.svg" />
  
  
