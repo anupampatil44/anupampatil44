@@ -31,7 +31,7 @@
 <img src="https://img.icons8.com/ios-filled/50/ffffff/django.png"/>
 <img height="50" width="50" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png" />
  <img height="50" width="50" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png"/>
- <img height="75" width="75" src="https://raw.githubusercontent.com/fastai/logos/main/Fast.ai.png"/>
+ <img height="60" width="60" src="https://raw.githubusercontent.com/fastai/logos/main/Fast.ai.png"/>
  <img height="50" width="150" src="https://gymnasium.farama.org/_images/gymnasium-text.png"/>
  <img height="50" width="100" src="https://mujoco.readthedocs.io/en/stable/_static/banner.svg"/>
  <br>
