@@ -8,7 +8,7 @@
  <i> - I'm a graduate student currently pursuing a Master's Degree in Computer Science at the University of Southern California with a keen interest in product development and research.<br>
  - I'm an open-minded person and love to connect & interact with people (I generally respond to cold messages on LinkedIn and emails, yes we exist!).<br>
  - Currently exploring various Deep-Learning approaches for NLP, Generative Modeling as well as their integration with products. <br>
- - Plus, now venturing into Robotics as well! (Part of the SLURM lab at USC, working on Dexterous Manipulation.)<br>
+ - Plus, ventured a bit into Robotics as well! ( Was part of the SLURM lab at USC from 2023-2024, worked on Dexterous Manipulation on Granular Objects.)<br>
  - Apart from my academics, I love playing video-games, reading fiction & listening to music.</i>
 
 
